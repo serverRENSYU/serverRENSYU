@@ -7,7 +7,7 @@
 <title>회원가입</title>
 </head>
 <body>
-<form>
+<form action="join" method="post">
 <table>
 	<tr>
 		<td>ID</td>
